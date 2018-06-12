@@ -1,0 +1,10 @@
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe.config
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.exe
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\bin\Debug\CodeCounter.pdb
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\obj\Debug\CodeCounter.csprojResolveAssemblyReference.cache
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\obj\Debug\CodeCounter.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\obj\Debug\CodeCounter.exe
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\obj\Debug\CodeCounter.pdb
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\bin\Debug\Newtonsoft.Json.dll
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\bin\Debug\Newtonsoft.Json.xml
+d:\Documents\Visual Studio 2017\Projects\CodeCounter\CodeCounter\obj\Debug\CodeCounter.csproj.CopyComplete
